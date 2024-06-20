@@ -1,6 +1,6 @@
 package polymorphism;
 
-public class Getset2 extends GetSet1 {
+public class Getset2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
