@@ -1,0 +1,17 @@
+<suite name="SeleniumTestSuite">
+	<test name="mytest">
+		<groups>
+			<run>
+			<!-- 	<include name="Smoketest"></include>-->
+			<exclude name= "Smoketest"> </exclude>
+			</run>
+		</groups>
+		<classes>
+
+			<class name="basicTestNG.Basic1"></class>
+			<class name="basicTestNG.AnnotationsMethod"></class>
+
+
+		</classes>
+	</test>
+</suite>

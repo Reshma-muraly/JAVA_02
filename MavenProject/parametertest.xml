@@ -1,0 +1,18 @@
+<suite name="SeleniumTestSuite">
+	<test name="mytest">
+		<parameter name="P1" value="4">
+		<parameter name="P2" value="test">
+		</parameter>
+			
+		
+		<classes>
+
+			<class name="basicTestNG.Parameter"></class>
+			
+
+
+		</classes>
+		</parameter>
+	</test>
+
+</suite>
